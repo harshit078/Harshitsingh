@@ -1,5 +1,5 @@
 {
-  "name": "guilyx/guilyx",
+  "name": "harshit078/harshit078",
   "version": 2,
   "rewrites": [{ "source": "/(.*)", "destination": "/api/$1" }]
 }
