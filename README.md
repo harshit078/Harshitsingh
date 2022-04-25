@@ -39,8 +39,8 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 </p>
 
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
+  <a href="https://spotify-harshit078.vercel.app/api/view?uid=11147618695&redirect=true">
+    <img src="https://spotify-harshit078.vercel.app/api/view?uid=11147618695&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
   </a>
 </p>
 
